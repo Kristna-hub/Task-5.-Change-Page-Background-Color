@@ -1,0 +1,34 @@
+
+body {
+    font-family: english , sans-serif;
+    text-align: center;
+    background-color: white;
+}
+  .color-btn {
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+  }
+  #btnRed {
+    background-color: red;
+    color: white;
+  }
+  #btnGreen {
+    background-color: green;
+    color: white;
+  }
+  #btnBlue {
+    background-color: blue;
+    color: white;
+  }
+  #btnYellow {
+    background-color: yellow;
+    color: black;
+  }
+  #btnReset {
+    background-color: gray;
+    color: white;
+  }
+  
